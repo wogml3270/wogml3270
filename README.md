@@ -1,5 +1,11 @@
 # 프론트엔드 개발자 박재희 👋
 
+## Link to
+
+|                                 ![notn]                                  |                     ![blog]                     |
+| :----------------------------------------------------------------------: | :---------------------------------------------: |
+| [이력서](https://wogml3270.notion.site/cf22a7bca5ec45a7815997c128d2e0ec) | [개발블로그](https://chimsil-story.tistory.com) |
+
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssaa889)](https://solved.ac/ssaa889/)
@@ -72,12 +78,6 @@ ${\textsf{\color{#5ad7b7}styles library}}$
 | WindowOS  | MacOS  | WSL(ubuntu) |
 | :-------: | :----: | :---------: |
 | ![window] | ![mac] |   ![wsl]    |
-
-## Link to
-
-|                                 ![notn]                                  |                     ![blog]                     |
-| :----------------------------------------------------------------------: | :---------------------------------------------: |
-| [이력서](https://wogml3270.notion.site/cf22a7bca5ec45a7815997c128d2e0ec) | [개발블로그](https://chimsil-story.tistory.com) |
 
 <!-- stack Icon Refernces -->
 
