@@ -73,6 +73,12 @@ ${\textsf{\color{#5ad7b7}styles library}}$
 | :-------: | :----: | :---------: |
 | ![window] | ![mac] |   ![wsl]    |
 
+## Link to
+
+|                                 ![notn]                                  |                     ![blog]                     |
+| :----------------------------------------------------------------------: | :---------------------------------------------: |
+| [이력서](https://wogml3270.notion.site/cf22a7bca5ec45a7815997c128d2e0ec) | [개발블로그](https://chimsil-story.tistory.com) |
+
 <!-- stack Icon Refernces -->
 
 [html]: /md-icon/html-md.svg
@@ -100,3 +106,4 @@ ${\textsf{\color{#5ad7b7}styles library}}$
 [window]: /md-icon/windows-md.svg
 [mac]: /md-icon/macos-md.svg
 [wsl]: /md-icon/ubuntu-md.svg
+[blog]: /md-icon/tistory-md.svg
