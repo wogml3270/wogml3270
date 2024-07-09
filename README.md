@@ -29,12 +29,12 @@ Here are some ideas to get you started:
 
 ### Frontend
 
-${\textsf{\color{#5ad7b7}markup langages}}$
+${\textsf{\color{#5ad7b7}markup languages}}$
 | HTML | CSS | SASS |
 | :-----: | :----: | :-----: |
 | ![html] | ![css] | ![sass] |
 
-${\textsf{\color{#5ad7b7}programming langages}}$
+${\textsf{\color{#5ad7b7}programming languages}}$
 | JavaScript | TypeScript | Flutter |
 | :--------: | :--------: | :--------: |
 | ![js] | ![ts] | ![flutter] |
