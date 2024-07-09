@@ -29,22 +29,22 @@ Here are some ideas to get you started:
 
 ### Frontend
 
-<font size="3" color="#5ad7b7">markup langages</font>
+${\textsf{\color{#5ad7b7}markup langages}}$
 | HTML | CSS | SASS |
 | :-----: | :----: | :-----: |
 | ![html] | ![css] | ![sass] |
 
-<font size="3" color="#5ad7b7">programming langages</font>
+${\textsf{\color{#5ad7b7}programming langages}}$
 | JavaScript | TypeScript | Flutter |
 | :--------: | :--------: | :--------: |
 | ![js] | ![ts] | ![flutter] |
 
-<font size="3" color="#5ad7b7">library & framework</font>
+${\textsf{\color{#5ad7b7}library, framework}}$
 | React | Next | Recoil | Zustand |
 | :------: | :-----: | :-----: | :-----: |
 | ![react] | ![next] | ![reco] | ![zus] |
 
-<font size="3" color="#5ad7b7">styles library</font>
+${\textsf{\color{#5ad7b7}styles library}}$
 | MaterialUI | Tailwind | styled-components |
 | :--------: | :---------: | :---------------: |
 | ![mui] | ![tailwind] | ![styled] |
