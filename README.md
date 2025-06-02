@@ -12,22 +12,22 @@
 
 ### Frontend
 
-${\textsf{\color{#5ad7b7}markup languages}}$
+### markup
 | HTML | CSS | SASS |
 | :-----: | :----: | :-----: |
 | ![html] | ![css] | ![sass] |
 
-${\textsf{\color{#5ad7b7}programming languages}}$
+### programming languages
 | JavaScript | TypeScript | Flutter |
 | :--------: | :--------: | :--------: |
 | ![js] | ![ts] | ![flutter] |
 
-${\textsf{\color{#5ad7b7}library, framework}}$
+### library, framework
 | React | Next | Recoil | Zustand |
 | :------: | :-----: | :-----: | :-----: |
 | ![react] | ![next] | ![reco] | ![zus] |
 
-${\textsf{\color{#5ad7b7}styles library}}$
+### styles library
 | MaterialUI | Tailwind | styled-components |
 | :--------: | :---------: | :---------------: |
 | ![mui] | ![tailwind] | ![styled] |
