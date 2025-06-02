@@ -10,8 +10,6 @@
 
 ## Skill Set
 
-### Frontend
-
 ### markup
 | HTML | CSS | SASS |
 | :-----: | :----: | :-----: |
