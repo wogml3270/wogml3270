@@ -16,8 +16,8 @@
 | ![html] | ![css] | ![sass] |
 
 ### programming languages
-| JavaScript | TypeScript | Flutter |
-| :--------: | :--------: | :--------: |
+| JavaScript | TypeScript |
+| :--------: | :--------: |
 | ![js] | ![ts] | ![flutter] |
 
 ### library, framework
@@ -32,9 +32,9 @@
 
 ### ETC
 
-| Notion  | Slack  |  Figma  | Framer  |
-| :-----: | :----: | :-----: | :-----: |
-| ![notn] | ![sla] | ![figm] | ![fram] |
+| Notion  | Slack  |  Figma  |
+| :-----: | :----: | :-----: |
+| ![notn] | ![sla] | ![figm] |
 
 ### Cloud Services
 
@@ -61,7 +61,6 @@
 [sass]: /md-icon/sass-md.svg
 [js]: /md-icon/javascript-md.svg
 [ts]: /md-icon/typescript-md.svg
-[flutter]: /md-icon/flutter-md.svg
 [react]: /md-icon/react-md.svg
 [next]: /md-icon/nextjs-md.svg
 [reco]: /md-icon/recoil-md.svg
@@ -72,7 +71,6 @@
 [notn]: /md-icon/notion-md.svg
 [sla]: /md-icon/slack-md.svg
 [figm]: /md-icon/figma-md.svg
-[fram]: /md-icon/framer-md.svg
 [aws]: /md-icon/aws-md.svg
 [supa]: /md-icon/supabase-md.svg
 [vscode]: /md-icon/vscode-md.svg
