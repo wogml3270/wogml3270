@@ -29,7 +29,7 @@
 * **[포트폴리오 블로그](https://j-fe-blog.vercel.app/)**  
   * 개발 경험과 기술 블로그 아티클을 기록하는 개인 포트폴리오 사이트
 * **[쿵짝랩 (Kungjjak Lab)](https://kungjjak-lab.vercel.app/)**  
-  * 인터렉티브 UI와 커플들을 위한 MBTI 검사 및 실시간 supabase RealTime 기능이 있는 서비스
+  * 인터렉티브 UI와 커플들을 위한 MBTI 검사 및 실시간 supabase RealTime 기능을 활용한 서비스
 * **[TJ 노래검색 & 셋리스트](https://tj-media-search.vercel.app/)**  
   * TJ 노래방 반주기 검색 및 나만의 노래 셋리스트 관리 서비스
 * **[네트워크 관리사 2급 CBT](https://network-manager-cbt.vercel.app/)**  
