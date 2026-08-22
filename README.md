@@ -4,7 +4,7 @@
 
 |                                 ![notn]                                  |                     ![blog]                     |
 | :----------------------------------------------------------------------: | :---------------------------------------------: |
-| [이력서](https://wogml3270.notion.site/cf22a7bca5ec45a7815997c128d2e0ec) | [개발블로그](https://chimsil-story.tistory.com) |
+| [이력서](https://wogml3270.notion.site/cf22a7bca5ec45a7815997c128d2e0ec) | [티스토리](https://chimsil-story.tistory.com) |
 
 ---
 
