@@ -36,8 +36,8 @@
   * 네트워크 관리사 2급 자격증 대비 기출문제 풀이 및 복습 웹 서비스
 * **[포켓몬 도감](https://chimsil-pokedex.vercel.app/)**  
   * 포켓몬 데이터를 조회하고 검색할 수 있는 인터랙티브 도감 서비스
-* **[커피 타운 (Coffee Town)](https://coffee-town-pink.vercel.app/)**  
-  * Unity 게임 & 웹 서비스 크로스플랫폼 (현재 진행중)
+* **[커피 타운 (Coffee Town)](https://coffee-town-three.vercel.app/)**  
+  * 커피 시뮬레이션 웹 게임 (현재 진행중)
 
 <br/>
 
